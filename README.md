@@ -7,3 +7,5 @@
 ### 5. If it is, then it finds the total days between today and the payment date
 ### 6. If it is less than 30 days, then it sends a reminder email to the client of an upcoming payment
 ### 7. If it is more than 30 days, then it sends an overdue notice via email to the client
+
+Could add a record that program checks to see if client has already been sent a reminder email which could be set to a specific amount of time (14days).
